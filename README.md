@@ -1,3 +1,7 @@
+# Quiz App
+
+![quizapp](https://i.imgur.com/fXfc0Yz.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
